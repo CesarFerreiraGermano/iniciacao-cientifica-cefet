@@ -1,0 +1,7 @@
+evolution=1; In order to log the dynamic of the best individual of the last simulation set evolution=0 (only this)
+loadPopulationFromFile=1;
+trials=20; a rede e' treinada com 50 tipos de entrada
+logDynamic=0;
+loadBestGeneFromFile=1; carrega o melhor individuo do arquivo
+end=300; numero de tournaments
+start=0; Used to continue the evolution
